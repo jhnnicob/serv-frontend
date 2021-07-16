@@ -1,0 +1,39 @@
+.dashboard {
+  padding: 40px;
+}
+
+.dashboard > h2 {
+  font-size: 20px;
+  color: #161c2e;
+  font-family: "Lato", sans-serif;
+}
+
+.dashboard > h2:nth-child(2) {
+  margin-top: 50px;
+  color: #1f62af;
+  font-size: 17px;
+  font-family: "Roboto", sans-serif;
+}
+
+.dashboard__row > img {
+  object-fit: contain;
+  margin-top: 30px;
+}
+
+.dashboard__row {
+  display: flex;
+}
+
+.dashboard__table {
+  margin-top: 80px;
+}
+
+.dashboard__table > h2 {
+  color: #1f62af;
+  font-size: 17px;
+  font-family: "Lato", sans-serif;
+}
+
+.dashboad__seeMore {
+  margin-top: 30px;
+}

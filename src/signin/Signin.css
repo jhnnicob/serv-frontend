@@ -1,0 +1,49 @@
+.signin {
+  width: 380px;
+  margin: auto;
+  margin-top: 150px;
+}
+
+.signin__head .top {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.signin h2 {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 1.4rem;
+}
+
+.signin__head .icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #dc004e;
+  border-radius: 30px;
+  width: 50px;
+  height: 50px;
+}
+
+.signin__head .MuiSvgIcon-root {
+  color: #fff;
+}
+
+.signin__footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.signin__recommendation {
+  margin-top: 15px;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.signin__recommendation a {
+  text-decoration: none;
+  color: var(--primary-color);
+}

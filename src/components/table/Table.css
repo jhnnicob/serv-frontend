@@ -1,0 +1,45 @@
+table {
+  margin-top: 30px;
+  width: 100%;
+}
+
+table th {
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+  font-size: 12px;
+  padding: 15px 0;
+  color: #141517;
+  border-bottom: 1px solid #dddddd;
+}
+
+table tr td {
+  font-family: "Lato", sans-serif;
+  padding: 15px 0;
+  font-size: 14px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.pagination {
+  font-family: "Lato", sans-serif;
+  color: #141517;
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+  padding: 10px 0;
+  border-bottom: 1px solid #dddddd;
+}
+
+.pagination select {
+  border: none;
+  font-size: 14px;
+  color: #141517;
+}
+
+.pagination select option {
+  border: none;
+}
+
+.pagination button {
+  border: none;
+  background: none;
+}

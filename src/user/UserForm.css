@@ -1,0 +1,20 @@
+.userForm {
+}
+
+.userForm__flex > input {
+  margin: 10px;
+}
+
+.userForm .MuiInputBase-input {
+  font-size: 14px;
+}
+
+.userForm .MuiInputLabel-formControl {
+  font-size: 14px;
+}
+
+.userForm__buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 30px;
+}

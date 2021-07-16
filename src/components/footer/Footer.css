@@ -1,0 +1,5 @@
+.footer > h5 {
+  color: var(--grey);
+  font-weight: normal;
+  font-size: 15px;
+}

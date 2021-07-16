@@ -1,0 +1,21 @@
+.data__unavailable {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.data__unavailable__icon {
+  display: flex;
+  justify-content: center;
+}
+
+.data__unavailable__icon .MuiSvgIcon-root {
+  font-size: 3rem;
+  color: #d51f69;
+  margin-bottom: 10px;
+}
+
+.data__unavailable span {
+  color: #161c2e;
+  text-align: center;
+}

@@ -1,0 +1,30 @@
+.product {
+  padding: 40px;
+}
+
+.product h2 {
+  font-size: 20px;
+  color: #161c2e;
+  font-family: "Lato", sans-serif;
+}
+
+.table__container table {
+  margin-top: 30px;
+  width: 100%;
+}
+
+.table__container table th {
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+  font-size: 12px;
+  padding: 15px 0;
+  color: #141517;
+  border-bottom: 1px solid #dddddd;
+}
+
+.table__container table tr td {
+  font-family: "Lato", sans-serif;
+  padding: 15px 0;
+  font-size: 14px;
+  border-bottom: 1px solid #dddddd;
+}

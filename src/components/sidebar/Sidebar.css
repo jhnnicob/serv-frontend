@@ -1,0 +1,14 @@
+.sidebar {
+  background: #161c2e;
+  padding: 20px;
+  height: 100vh;
+  max-width: 280px;
+  width: 100%;
+  color: #fff;
+  border-bottom: 1px solid #cbd4db;
+}
+
+.sidebar__header {
+  margin-bottom: 30px;
+  padding-left: 25px;
+}

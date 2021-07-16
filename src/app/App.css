@@ -1,0 +1,7 @@
+.app {
+  display: flex;
+}
+
+.app__body {
+  width: calc(100% - 280px);
+}

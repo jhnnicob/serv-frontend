@@ -1,0 +1,44 @@
+.userTable__header > button {
+  padding: 10px 20px;
+  color: #fff;
+  background-color: #224ca8;
+  border: none;
+  font-size: 14px;
+  border-radius: 2px;
+  transition: 200ms;
+  cursor: pointer;
+}
+
+.userTable__header > button:hover {
+  background-color: #1d54cd;
+}
+
+.userTable__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.userTable__header h2 {
+  font-size: 20px;
+  color: #161c2e;
+  font-family: "Lato", sans-serif;
+}
+
+.userTable__modal__icons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.userTable__modal__icons button {
+  border: none;
+  cursor: pointer;
+  background: transparent;
+  padding: 2px;
+}
+
+.userTable__modal__icons button:hover {
+  background-color: #f1f1f1;
+  border-radius: 30px;
+  padding: 2px;
+}
