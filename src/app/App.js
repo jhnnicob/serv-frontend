@@ -11,7 +11,7 @@ import { Switch, Route } from 'react-router-dom';
 import routes from '../config/router';
 
 export function App() {
-
+// Applying testing
   return (
       <div className="app">
         <Sidebar routes={routes} />
