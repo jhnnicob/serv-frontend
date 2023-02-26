@@ -29,11 +29,9 @@ export function App() {
             </Route>
             <Route path="/order">
               <Order />
-               <Order />
             </Route>
             <Route path="/user">
               <User />
-               <User />
             </Route>
          </Switch>
         </div>
