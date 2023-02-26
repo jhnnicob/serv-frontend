@@ -9,6 +9,7 @@ function isRequired(val) {
     return val.length > 0;
 }
 
+// test
 
 const validate = (name, value, errors) => {
     if(name === 'firstName') {
